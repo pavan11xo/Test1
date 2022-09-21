@@ -1,0 +1,14 @@
+#header{
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  background-color: beige;
+  
+}
+#image{
+  height: 140px;
+  width: 150px;
+  top: 15px;
+  bottom: 20px;
+  left: 70px;
+
+}
